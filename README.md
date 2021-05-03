@@ -22,8 +22,8 @@ This is a note taker application. It will use an Express.js back end and will sa
 You need have Node.js and run the npm install command.
     
 ## Preview 
-    
-[Screenshot-1.jpg](https://postimg.cc/mcsj0Td1)
+
+[![Screenshot-1.jpg](https://i.postimg.cc/wBtrRvL2/Screenshot-1.jpg)](https://postimg.cc/mcsj0Td1)
 
 
 ## Usage
