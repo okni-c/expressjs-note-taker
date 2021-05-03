@@ -23,7 +23,7 @@ You need have Node.js and run the npm install command.
     
 ## Preview 
     
-![alt text](assets/screenshot.jpg)
+[Screenshot-1.jpg](https://postimg.cc/mcsj0Td1)
 
 
 ## Usage
