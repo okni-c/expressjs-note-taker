@@ -23,6 +23,8 @@ You need have Node.js and run the npm install command.
     
 ## Preview 
 
+View App Live on Heroku here: https://notetaker9999.herokuapp.com/
+
 [![Screenshot-1.jpg](https://i.postimg.cc/wBtrRvL2/Screenshot-1.jpg)](https://postimg.cc/mcsj0Td1)
 
 
